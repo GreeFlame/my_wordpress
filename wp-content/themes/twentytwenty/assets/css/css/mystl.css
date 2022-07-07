@@ -1,0 +1,20 @@
+.zadnnik1
+	{
+	position: relative;
+	top: 200px;
+	text-align: center;
+	color: #fff;
+	margin: auto;
+	width: 400px;
+	height: 80px;
+	background-color: #3a3434;
+	}
+	
+	.centr
+	{
+	position: relative;
+	top: 10px;
+	text-align: center;
+	}
+
+
